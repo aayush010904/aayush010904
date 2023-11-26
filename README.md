@@ -1,9 +1,6 @@
-Certainly! A well-crafted README file is essential for providing visitors with information about you and your projects on GitHub. Here's a template that you can use as a starting point for your GitHub profile README:
-
-
 # Aayush Chauhan
 
-![pfp](https://github.com/aayush010904/About-Me/assets/149661682/f01a0722-bd42-4a54-aea3-ae213843d3d3)
+
 ## 👩‍💻 Electronics and Communication Engineering Student | B.Tech at Faculty of Technology, University of Delhi
 
 ### 📚 About Me
