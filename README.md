@@ -5,15 +5,15 @@
 
 ### 📚 About Me
 
-Hello! I am Aayush Chauhan, a passionate and dedicated student pursuing a Bachelor's degree in Electronics and Communication Engineering at the Faculty of Technology, University of Delhi. My academic journey has equipped me with a strong foundation in electronics, communication systems, computer sciences and related technologies.
+Hello! I am Aayush Chauhan, a passionate and dedicated student pursuing a Bachelor's degree in Electronics and Communication Engineering at the Faculty of Technology, University of Delhi. My academic journey has equipped me with a strong foundation in electronics, communication systems, machine learning, computer sciences and related technologies.
 
 
 ### 🌱 Skills
 
-- **Programming Languages:** C, Python, HTML, CSS, Javascript
+- **Programming Languages:** C, Python, HTML, CSS
 - **Electronics:** Circuit Design, PCB Layout, Embedded Systems
 - **Communication Systems:** Signal Processing, Wireless Communication
-- **Tools and Technologies:** NI Multisim, Keysight ADS
+- **Tools and Technologies:** NI Multisim, Data Analysis, Machine Learning
 
 ### 📫 How to Reach Me
 
