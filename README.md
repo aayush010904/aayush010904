@@ -10,9 +10,9 @@ Hello! I am Aayush Chauhan, a passionate and dedicated student pursuing a Bachel
 
 ### 🌱 Skills
 
-- **Programming Languages:** C, Python, HTML, CSS
-- **Electronics:** Circuit Design, PCB Layout, Embedded Systems
-- **Communication Systems:** Signal Processing, Wireless Communication
+- **Programming Languages:** C/C++, Python, HTML, CSS
+- **Frameworks:** NumPy, Pandas, Sci-Kit Learn, TensorFlow, Matplotlib, Seaborn
+- **Electronics:** Circuit Design
 - **Tools and Technologies:** NI Multisim, Data Analysis, Machine Learning
 
 ### 📫 How to Reach Me
@@ -30,6 +30,7 @@ Hello! I am Aayush Chauhan, a passionate and dedicated student pursuing a Bachel
 Feel free to connect with me on social media platforms and explore my latest projects. I am always open to collaboration and discussions on interesting projects and ideas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aayush-chauhan-279a2529a/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-Black)](https://x.com/randomlyaayush)
 
 
 ### 🎓 Education
