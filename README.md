@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hello! I am Aayush Chauhan, a passionate and dedicated student pursuing a **Bachelor's degree** in **Electronics and Communication Engineering** at the **Faculty of Technology, University of Delhi**. My academic journey has equipped me with a strong foundation in **electronics, communication systems, machine learning, computer sciences, and related technologies**.
+# Who am I?
+I am Aayush Chauhan. I am pursuing **B.Tech** in **Electronics and Communication Engineering** from **Faculty of Technology, University of Delhi**. Ai fascinates me, and I like experimenting with AI and building cool stuff.
+
 
 
 ## 🌐 Socials:
