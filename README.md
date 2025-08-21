@@ -152,7 +152,7 @@ mindmap
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush010904&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff&custom_title=🔮%20Code%20Arsenal%20🔮" />
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush010904&theme=tokyonight&background=0d1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" width="50%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush010904&theme=tokyonight&background=0d1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff"/>
 
 </div>
 
