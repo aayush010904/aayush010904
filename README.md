@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,16,5,25,10&height=150&section=header&text=Hi%2C%20I%20am%20Aayush&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,16,5,25,10&height=250&section=header&text=Hi%2C%20I%20am%20Aayush&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&height=100&lines=Machine+Learning+Engineer;Deep+Learning+Alchemist;Computer+Vision+Enthusiast;MLOps+Engineer;Research+Innovator)](https://git.io/typing-svg)
   
@@ -144,20 +144,13 @@ mindmap
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush010904&custom_title=⚡%20Neural%20Network%20Activity%20⚡&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-<table>
-<tr>
-<td width="50%">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=aayush010904&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=00d4ff&custom_title=⚡%20System%20Statistics%20⚡" />
 
-</td>
-<td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush010904&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff&custom_title=🔮%20Code%20Arsenal%20🔮" />
 
-</td>
-</tr>
-</table>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush010904&theme=tokyonight&background=0d1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" width="50%" />
 
@@ -171,30 +164,26 @@ mindmap
 
 ### 🚀 **Transmission Channels**
 
-<table>
-<tr>
-<td align="center">
+<div align="center">
+
 <a href="https://linkedin.com/in/aayushchauhan019">
 <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C3E50" />
-</a><br/>
-</td>
-<td align="center">
+</a>
+<br/>
 <a href="https://github.com/aayush010904">
 <img src="https://img.shields.io/badge/GitHub-Code%20Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50" />
-</a><br/>
-</td>
-<td align="center">
+</a>
+<br/>
 <a href="https://aayush-portfolio-plum.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Digital%20Showcase-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2C3E50" />
-</a><br/>
-</td>
-<td align="center">
+</a>
+<br/>
 <a href="mailto:aayushchauhan019@gmail.com">
 <img src="https://img.shields.io/badge/Email-Direct%20Line-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C3E50" />
-</a><br/>
-</td>
-</tr>
-</table>
+</a>
+
+</div>
+
 
 ### 💌 **Open Communication Protocols**
 
@@ -213,7 +202,6 @@ mindmap
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Thanks+for+Entering+the+Matrix!+🚀;Star+⭐+if+you+find+something+interesting!;Let's+Build+the+Future+Together!+🤖" />
 
-**🎯 Ready to collaborate on the next breakthrough?**
 
 
 </div>
