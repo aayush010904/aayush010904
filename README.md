@@ -142,8 +142,6 @@ mindmap
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush010904&custom_title=⚡%20Neural%20Network%20Activity%20⚡&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=aayush010904&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=00d4ff&custom_title=⚡%20System%20Statistics%20⚡" />
