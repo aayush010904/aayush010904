@@ -143,11 +143,10 @@ mindmap
 <div align="center">
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=aayush010904&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=00d4ff&custom_title=⚡%20System%20Statistics%20⚡" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush010904&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff&custom_title=🔮%20Code%20Arsenal%20🔮" />
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aayush010904&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=00d4ff&custom_title=System%20Statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush010904&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff&custom_title=Code%20Arsenal" />
+</div>
 
 
 </div>
