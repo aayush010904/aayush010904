@@ -41,4 +41,15 @@
       "loc"
     ]
   }
+  "image": "https://example.com/pikachu.png",
+  "coloredImage": true,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "titleColor": { "text": "#CC9900, #FFD700", "line": "#8B4513, #D4A574" },
+      "fields": [
+        { "key": "Name", "value": "{{name}}", "keyColor": "#CC9900, #FFC107", "valueColor": "#5D4037, #FFEB3B" }
+      ]
+    }
+  ]
 }
