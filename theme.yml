@@ -1,0 +1,10 @@
+
+background: "#161b22"
+foreground: "#c9d1d9"
+key: "#ffa657"
+value: "#a5d6ff"
+dots: "#616e7f"
+font_size: 16
+line_height: 20
+ascii_gap: 110
+panel_width: 48

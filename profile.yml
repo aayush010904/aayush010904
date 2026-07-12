@@ -1,0 +1,96 @@
+header: "{{username}}@github"
+
+github:
+  username: aayush010904
+
+rows:
+  - key: Name
+    value: "{{name}}"
+
+  - key: Location
+    value: "{{location}}"
+
+  - key: Education
+    value: B.Tech ECE @ University of Delhi
+
+  - key: Minor
+    value: AI & Machine Learning
+
+  - key: Role
+    value: IEEE Student Branch Chair
+
+  - key: Uptime
+    value: "{{uptime}}"
+
+  - blank:
+
+  - section: Tech Stack
+
+  - key: Languages.Programming
+    value: Python, C++, SQL
+
+  - key: Languages.Markup
+    value: HTML, CSS, LaTeX, Markdown
+
+  - key: Frameworks.AI
+    value: PyTorch, TensorFlow, Transformers
+
+  - key: Frameworks.Data
+    value: Scikit-learn, OpenCV, Pandas
+
+  - key: Tools
+    value: Git, Linux, Docker, VS Code
+
+  - blank:
+
+  - section: Interests
+
+  - key: Domains
+    value: AI/ML, NLP, Computer Vision
+
+  - key: Research
+    value: Radar Cross Section, Stealth AI
+
+  - key: Currently
+    value: LLMs, RAG, Edge AI
+
+  - blank:
+
+  - section: Contact
+
+  - key: Portfolio
+    value: aayush-chauhan.vercel.app
+
+  - key: GitHub
+    value: github.com/{{username}}
+
+  - key: LinkedIn
+    value: linkedin.com/in/aayushchauhan019
+
+  - key: Email
+    value: aayushchauhan010@gmail.com
+
+  - blank:
+
+  - section: GitHub Stats
+
+  - key: Repositories
+    value: "{{repos}}"
+
+  - key: Stars
+    value: "{{stars}}"
+
+  - key: Forks
+    value: "{{forks}}"
+
+  - key: Followers
+    value: "{{followers}}"
+
+  - key: Following
+    value: "{{following}}"
+
+  - key: Contributions
+    value: "{{contributions}}"
+
+  - key: Top Language
+    value: "{{top_language}}"
