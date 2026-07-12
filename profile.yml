@@ -16,9 +16,6 @@ rows:
   - key: Minor
     value: AI & Machine Learning
 
-  - key: Role
-    value: IEEE Student Branch Chair
-
   - key: Uptime
     value: "{{uptime}}"
 
@@ -48,9 +45,6 @@ rows:
   - key: Domains
     value: AI/ML, NLP, Computer Vision
 
-  - key: Research
-    value: Radar Cross Section, Stealth AI
-
   - key: Currently
     value: LLMs, RAG, Edge AI
 
@@ -60,9 +54,6 @@ rows:
 
   - key: Portfolio
     value: aayush-chauhan.vercel.app
-
-  - key: GitHub
-    value: github.com/{{username}}
 
   - key: LinkedIn
     value: linkedin.com/in/aayushchauhan019
