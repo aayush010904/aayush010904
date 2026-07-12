@@ -1,4 +1,4 @@
-name: Update SVG
+name: Update Neofetch
 
 on:
   workflow_dispatch:
@@ -17,22 +17,26 @@ jobs:
 
     steps:
 
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
-
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - run: pip install -r requirements.txt
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Generate SVG
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python generate.py
+        run: |
+          python generate.py
 
-      - name: Commit
+      - name: Commit SVG
         uses: stefanzweifel/git-auto-commit-action@v5
-
         with:
-          commit_message: Update SVG
+          commit_message: "Auto-update GitHub Neofetch"
