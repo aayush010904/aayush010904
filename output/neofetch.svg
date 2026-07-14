@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback, Consolas, monospace" width="875px" height="670px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback, Consolas, monospace" width="905px" height="670px" font-size="16px">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
 text, tspan { white-space: pre; }
 </style>
-<rect width="875px" height="670px" fill="#161b22" rx="15"/>
+<rect width="905px" height="670px" fill="#161b22" rx="15"/>
 <text x="15" y="145" fill="#c9d1d9">
 <tspan x="15" y="145">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣶⣦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀ </tspan>
 <tspan x="15" y="165">⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡿⠛⠉⠙⠛⠛⠛⠛⠻⢿⣿⣷⣤⡀⠀⠀⠀⠀⠀ </tspan>
@@ -25,31 +25,31 @@ text, tspan { white-space: pre; }
 <tspan x="15" y="485">⠀⠀⠀⠀⠀⠀⠀⢿⣿⣦⣄⣀⣠⣴⣿⣿⠁⠀⠈⠻⣿⣿⣿⣿⡿⠏⠀⠀⠀⠀ </tspan>
 <tspan x="15" y="505">⠀⠀⠀⠀⠀⠀⠀⠈⠛⠻⠿⠿⠿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
 </text>
-<text x="332" y="30" fill="#c9d1d9" font-weight="bold">aayush010904@github<tspan font-weight="normal"> -—————————————————————————————————-</tspan></text>
-<text x="332" y="50" fill="#c9d1d9">. <tspan fill="#ffa657">Name</tspan>:<tspan fill="#616e7f"> ........................... </tspan><tspan fill="#a5d6ff">Aayush Chauhan</tspan></text>
-<text x="332" y="70" fill="#c9d1d9">. <tspan fill="#ffa657">Location</tspan>:<tspan fill="#616e7f"> ......................... </tspan><tspan fill="#a5d6ff">Delhi, India</tspan></text>
-<text x="332" y="90" fill="#c9d1d9">. <tspan fill="#ffa657">Education</tspan>:<tspan fill="#616e7f"> .... </tspan><tspan fill="#a5d6ff">B.Tech ECE @ University of Delhi</tspan></text>
-<text x="332" y="110" fill="#c9d1d9">. <tspan fill="#ffa657">Minor</tspan>:<tspan fill="#616e7f"> ................... </tspan><tspan fill="#a5d6ff">AI &amp; Machine Learning</tspan></text>
-<text x="332" y="130" fill="#c9d1d9">. <tspan fill="#ffa657">Uptime</tspan>:<tspan fill="#616e7f"> ...................... </tspan><tspan fill="#a5d6ff">2 years, 8 months</tspan></text>
-<text x="332" y="170" fill="#c9d1d9" font-weight="bold">- Tech Stack<tspan font-weight="normal"> -————————————————————————————————————————-</tspan></text>
-<text x="332" y="190" fill="#c9d1d9">. <tspan fill="#ffa657">Languages.Programming</tspan>:<tspan fill="#616e7f"> ........ </tspan><tspan fill="#a5d6ff">Python, C++, SQL</tspan></text>
-<text x="332" y="210" fill="#c9d1d9">. <tspan fill="#ffa657">Languages.Markup</tspan>:<tspan fill="#616e7f"> ... </tspan><tspan fill="#a5d6ff">HTML, CSS, LaTeX, Markdown</tspan></text>
-<text x="332" y="230" fill="#c9d1d9">. <tspan fill="#ffa657">Frameworks.AI</tspan>:<tspan fill="#616e7f"> ... </tspan><tspan fill="#a5d6ff">PyTorch, TensorFlow, Transformers</tspan></text>
-<text x="332" y="250" fill="#c9d1d9">. <tspan fill="#ffa657">Frameworks.Data</tspan>:<tspan fill="#616e7f"> ... </tspan><tspan fill="#a5d6ff">Scikit-learn, OpenCV, Pandas</tspan></text>
-<text x="332" y="270" fill="#c9d1d9">. <tspan fill="#ffa657">Tools</tspan>:<tspan fill="#616e7f"> ............. </tspan><tspan fill="#a5d6ff">Git, Linux, Docker, VS Code</tspan></text>
-<text x="332" y="310" fill="#c9d1d9" font-weight="bold">- Interests<tspan font-weight="normal"> -—————————————————————————————————————————-</tspan></text>
-<text x="332" y="330" fill="#c9d1d9">. <tspan fill="#ffa657">Domains</tspan>:<tspan fill="#616e7f"> ........... </tspan><tspan fill="#a5d6ff">AI/ML, NLP, Computer Vision</tspan></text>
-<text x="332" y="350" fill="#c9d1d9">. <tspan fill="#ffa657">Currently</tspan>:<tspan fill="#616e7f"> .................. </tspan><tspan fill="#a5d6ff">LLMs, RAG, Edge AI</tspan></text>
-<text x="332" y="390" fill="#c9d1d9" font-weight="bold">- Contact<tspan font-weight="normal"> -———————————————————————————————————————————-</tspan></text>
-<text x="332" y="410" fill="#c9d1d9">. <tspan fill="#ffa657">Portfolio</tspan>:<tspan fill="#616e7f"> ........... </tspan><tspan fill="#a5d6ff">aayush-chauhan.vercel.app</tspan></text>
-<text x="332" y="430" fill="#c9d1d9">. <tspan fill="#ffa657">LinkedIn</tspan>:<tspan fill="#616e7f"> ..... </tspan><tspan fill="#a5d6ff">linkedin.com/in/aayushchauhan019</tspan></text>
-<text x="332" y="450" fill="#c9d1d9">. <tspan fill="#ffa657">Email</tspan>:<tspan fill="#616e7f"> .............. </tspan><tspan fill="#a5d6ff">aayushchauhan010@gmail.com</tspan></text>
-<text x="332" y="490" fill="#c9d1d9" font-weight="bold">- GitHub Stats<tspan font-weight="normal"> -——————————————————————————————————————-</tspan></text>
-<text x="332" y="510" fill="#c9d1d9">. <tspan fill="#ffa657">Repositories</tspan>:<tspan fill="#616e7f"> ............................... </tspan><tspan fill="#a5d6ff">18</tspan></text>
-<text x="332" y="530" fill="#c9d1d9">. <tspan fill="#ffa657">Stars</tspan>:<tspan fill="#616e7f"> ....................................... </tspan><tspan fill="#a5d6ff">6</tspan></text>
-<text x="332" y="550" fill="#c9d1d9">. <tspan fill="#ffa657">Forks</tspan>:<tspan fill="#616e7f"> ....................................... </tspan><tspan fill="#a5d6ff">2</tspan></text>
-<text x="332" y="570" fill="#c9d1d9">. <tspan fill="#ffa657">Followers</tspan>:<tspan fill="#616e7f"> ................................... </tspan><tspan fill="#a5d6ff">4</tspan></text>
-<text x="332" y="590" fill="#c9d1d9">. <tspan fill="#ffa657">Following</tspan>:<tspan fill="#616e7f"> ................................... </tspan><tspan fill="#a5d6ff">2</tspan></text>
-<text x="332" y="610" fill="#c9d1d9">. <tspan fill="#ffa657">Contributions</tspan>:<tspan fill="#616e7f"> .............................. </tspan><tspan fill="#a5d6ff">95</tspan></text>
-<text x="332" y="630" fill="#c9d1d9">. <tspan fill="#ffa657">Top Language</tspan>:<tspan fill="#616e7f"> ................. </tspan><tspan fill="#a5d6ff">Jupyter Notebook</tspan></text>
+<text x="362" y="30" fill="#c9d1d9" font-weight="bold">aayush010904@github<tspan font-weight="normal"> -—————————————————————————————————-</tspan></text>
+<text x="362" y="50" fill="#c9d1d9">. <tspan fill="#ffa657">Name</tspan>:<tspan fill="#616e7f"> ........................... </tspan><tspan fill="#a5d6ff">Aayush Chauhan</tspan></text>
+<text x="362" y="70" fill="#c9d1d9">. <tspan fill="#ffa657">Location</tspan>:<tspan fill="#616e7f"> ......................... </tspan><tspan fill="#a5d6ff">Delhi, India</tspan></text>
+<text x="362" y="90" fill="#c9d1d9">. <tspan fill="#ffa657">Education</tspan>:<tspan fill="#616e7f"> .... </tspan><tspan fill="#a5d6ff">B.Tech ECE @ University of Delhi</tspan></text>
+<text x="362" y="110" fill="#c9d1d9">. <tspan fill="#ffa657">Minor</tspan>:<tspan fill="#616e7f"> ................... </tspan><tspan fill="#a5d6ff">AI &amp; Machine Learning</tspan></text>
+<text x="362" y="130" fill="#c9d1d9">. <tspan fill="#ffa657">Uptime</tspan>:<tspan fill="#616e7f"> ...................... </tspan><tspan fill="#a5d6ff">2 years, 8 months</tspan></text>
+<text x="362" y="170" fill="#c9d1d9" font-weight="bold">- Tech Stack<tspan font-weight="normal"> -————————————————————————————————————————-</tspan></text>
+<text x="362" y="190" fill="#c9d1d9">. <tspan fill="#ffa657">Languages.Programming</tspan>:<tspan fill="#616e7f"> ........ </tspan><tspan fill="#a5d6ff">Python, C++, SQL</tspan></text>
+<text x="362" y="210" fill="#c9d1d9">. <tspan fill="#ffa657">Languages.Markup</tspan>:<tspan fill="#616e7f"> ... </tspan><tspan fill="#a5d6ff">HTML, CSS, LaTeX, Markdown</tspan></text>
+<text x="362" y="230" fill="#c9d1d9">. <tspan fill="#ffa657">Frameworks.AI</tspan>:<tspan fill="#616e7f"> ... </tspan><tspan fill="#a5d6ff">PyTorch, TensorFlow, Transformers</tspan></text>
+<text x="362" y="250" fill="#c9d1d9">. <tspan fill="#ffa657">Frameworks.Data</tspan>:<tspan fill="#616e7f"> ... </tspan><tspan fill="#a5d6ff">Scikit-learn, OpenCV, Pandas</tspan></text>
+<text x="362" y="270" fill="#c9d1d9">. <tspan fill="#ffa657">Tools</tspan>:<tspan fill="#616e7f"> ............. </tspan><tspan fill="#a5d6ff">Git, Linux, Docker, VS Code</tspan></text>
+<text x="362" y="310" fill="#c9d1d9" font-weight="bold">- Interests<tspan font-weight="normal"> -—————————————————————————————————————————-</tspan></text>
+<text x="362" y="330" fill="#c9d1d9">. <tspan fill="#ffa657">Domains</tspan>:<tspan fill="#616e7f"> ........... </tspan><tspan fill="#a5d6ff">AI/ML, NLP, Computer Vision</tspan></text>
+<text x="362" y="350" fill="#c9d1d9">. <tspan fill="#ffa657">Currently</tspan>:<tspan fill="#616e7f"> .................. </tspan><tspan fill="#a5d6ff">LLMs, RAG, Edge AI</tspan></text>
+<text x="362" y="390" fill="#c9d1d9" font-weight="bold">- Contact<tspan font-weight="normal"> -———————————————————————————————————————————-</tspan></text>
+<text x="362" y="410" fill="#c9d1d9">. <tspan fill="#ffa657">Portfolio</tspan>:<tspan fill="#616e7f"> ........... </tspan><tspan fill="#a5d6ff">aayush-chauhan.vercel.app</tspan></text>
+<text x="362" y="430" fill="#c9d1d9">. <tspan fill="#ffa657">LinkedIn</tspan>:<tspan fill="#616e7f"> ..... </tspan><tspan fill="#a5d6ff">linkedin.com/in/aayushchauhan019</tspan></text>
+<text x="362" y="450" fill="#c9d1d9">. <tspan fill="#ffa657">Email</tspan>:<tspan fill="#616e7f"> .............. </tspan><tspan fill="#a5d6ff">aayushchauhan010@gmail.com</tspan></text>
+<text x="362" y="490" fill="#c9d1d9" font-weight="bold">- GitHub Stats<tspan font-weight="normal"> -——————————————————————————————————————-</tspan></text>
+<text x="362" y="510" fill="#c9d1d9">. <tspan fill="#ffa657">Repositories</tspan>:<tspan fill="#616e7f"> ............................... </tspan><tspan fill="#a5d6ff">18</tspan></text>
+<text x="362" y="530" fill="#c9d1d9">. <tspan fill="#ffa657">Stars</tspan>:<tspan fill="#616e7f"> ....................................... </tspan><tspan fill="#a5d6ff">6</tspan></text>
+<text x="362" y="550" fill="#c9d1d9">. <tspan fill="#ffa657">Forks</tspan>:<tspan fill="#616e7f"> ....................................... </tspan><tspan fill="#a5d6ff">2</tspan></text>
+<text x="362" y="570" fill="#c9d1d9">. <tspan fill="#ffa657">Followers</tspan>:<tspan fill="#616e7f"> ................................... </tspan><tspan fill="#a5d6ff">4</tspan></text>
+<text x="362" y="590" fill="#c9d1d9">. <tspan fill="#ffa657">Following</tspan>:<tspan fill="#616e7f"> ................................... </tspan><tspan fill="#a5d6ff">2</tspan></text>
+<text x="362" y="610" fill="#c9d1d9">. <tspan fill="#ffa657">Contributions</tspan>:<tspan fill="#616e7f"> .............................. </tspan><tspan fill="#a5d6ff">97</tspan></text>
+<text x="362" y="630" fill="#c9d1d9">. <tspan fill="#ffa657">Top Language</tspan>:<tspan fill="#616e7f"> ................. </tspan><tspan fill="#a5d6ff">Jupyter Notebook</tspan></text>
 </svg>
